@@ -1,0 +1,48 @@
+ /* Font Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Texto de coment�rio Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Assunto do coment�rio Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Texto de bal�o Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma",sans-serif;}
+span.MsoPlaceholderText
+	{color:gray;}
+span.TextodebaloChar
+	{mso-style-name:"Texto de bal�o Char";
+	mso-style-link:"Texto de bal�o";
+	font-family:"Tahoma",sans-serif;}
+span.TextodecomentrioChar
+	{mso-style-name:"Texto de coment�rio Char";
+	mso-style-link:"Texto de coment�rio";}
+span.AssuntodocomentrioChar
+	{mso-style-name:"Assunto do coment�rio Char";
+	mso-style-link:"Assunto do coment�rio";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+.MsoNormalTable{
+	width:527.4pt;border-collapse:collapse;border:none
+}
+
+.main{
+	margin:0px auto;
+	width:527.4pt;
+}
